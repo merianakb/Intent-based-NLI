@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+PyWit.egg-info/PKG-INFO
+PyWit.egg-info/SOURCES.txt
+PyWit.egg-info/dependency_links.txt
+PyWit.egg-info/requires.txt
+PyWit.egg-info/top_level.txt
+wit/__init__.py
+wit/connector.py
+wit/exceptions.py
+wit/helpers.py
+wit/wit.py

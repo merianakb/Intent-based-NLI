@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: PyWit
+Version: 0.4.0
+Summary: Python bindings for the Wit HTTP API
+Home-page: https://github.com/lextoumbourou/PyWit
+Author: Lex Toumbourou
+Author-email: lextoumbourou@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
